@@ -7,23 +7,6 @@
         <meta name="description" content="IT IS ABOUT MYSELF"/>
         <meta name="author" content="Amanpreet Singh"/>
         <meta http-equip="content-type" content="text/html;charset=UTF 8"/>
-        <style type="text/css">
-            body{
-                background-color: aquamarine;
-                align-items: center;
-            }
-            p{
-                font-family: 'Courier New', Courier, monospace;
-                text-align: center;
-            }
-            h1,h2{
-                text-align:center;
-                color:brown;
-            }
-            em{
-                color: darkblue;
-            }
-        </style>
     </head>
     <body>
         <h1>Details about Myself</h1>
